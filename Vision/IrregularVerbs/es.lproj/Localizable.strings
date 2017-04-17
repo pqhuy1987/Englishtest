@@ -1,0 +1,72 @@
+/* 
+  Localizable.strings
+  IrregularVerbs
+
+  Created by Oswaldo Rubio on 21/01/13.
+  Copyright (c) 2013 Oswaldo Rubio. All rights reserved.
+*/
+"InfoPopupHome" = "aprende, verifica tu conocimiento con un pequeño nº de verbos y comprueba tu progreso. Puedes incrementar el nivel ajustando el dial en la pantalla de inicio.";
+"close" = "cerrar";
+
+"LevelLabel_0" = "PRINCIPIANTE";
+"LevelLabel_1" = "MEDIO";
+"LevelLabel_2" = "EXPERTO";
+"whatyouneedtoknow" = "Algunas pistas para memorizar";
+"accesibility_dialselectorhint" = "deslize a izquierda o derecha para cambiar de nivel";
+//home View
+"verbstolearn" = "%d verbos para aprender";
+"back" = "Inicio";
+"Home"= "Inicio";
+"LearnLabel" = "Consultar";
+"TestLabel" = "Evaluar";
+"HistoryLabel" = "Estadísticas";
+"SetupLabel" = "Ajustes";
+"selecttesttype" = "Elige tipo de test";
+"Home" = "Principal";
+
+//Learn View
+"alpha" = "Por nombre";
+"hints" = "Por pistas";
+
+//test
+"TestOptions" = "Opciones";
+"TestType" = "Tipo de test";
+"usexofy" = "Usar %d de %d";
+"usehints" = "Usar pistas";
+"scoreboard"= "Marcador";
+"averagetime" ="tiempo de respuesta medio";
+"fail_format" = "%.0f%% fallos";
+"avgtime_format"="Tiempo medio %.2fs";
+"nopassverbs" = "Ningún verbo superado";
+"%d of %d" = "%d de %d";
+
+//Verbs Store
+"mostcommon" = "Más comunes";
+"leastcommon"="Menos comunes";
+"mostfailed" = "Más falladas";
+"randomchose"= "Aleatorio";
+"leasttested"="Menos evaluadas";
+"byhintgroup" = "Por pista";
+
+//history
+"historyLabel" = "Estadísticas";
+"halpha" = "[A-Z]";
+"haveragetime_abrev" = "Tiempo";
+"hfailures" = "Dominio";
+"herrors" = "Errores";
+"htest" = "Tests";
+
+"%d verbs without test" = "%d verbos sin evaluar";
+"%d failed verbs in %d tests" = "%d fallos en %d tests";
+
+
+//Setup
+"levelOfDifficulty" = "Nivel de dificultad";
+"includingverbs_format"=  "(incluyendo %d verbos)";
+"testtime_format" = "Test de %d segundos";
+
+"clearhistorydata" = "Reiniciar progreso";
+"clearconsequence"= "Se eliminará las estadísticas de estudio. ¿Estás seguro?";
+"cancel" = "Cancelar";
+"clearall" = "Reiniciar";
+"aboutbuttontitle" = "Ver info del proyecto en GitHub";
