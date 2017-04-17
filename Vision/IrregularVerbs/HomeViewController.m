@@ -140,8 +140,8 @@
 -(NSAttributedString *) attributedNavLabel {
     UIFont* fontLight = [UIFont fontWithName:@"Signika-Light" size:26];
     UIFont* fontBold= [UIFont fontWithName:@"Signika-Bold" size:26];
-    NSString *str1 = @"a list of";
-    NSString *str2 = @" Verbs";
+    NSString *str1 = @"English";
+    NSString *str2 = @" ProSkill";
     
     NSMutableAttributedString *result  = [[NSMutableAttributedString alloc] initWithString:[str1 stringByAppendingString:str2]];
     
